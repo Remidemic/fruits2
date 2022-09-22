@@ -1,0 +1,147 @@
+// create a index array again 
+
+const data = [{
+    id: 1,
+    first_name: "Boycie",
+    last_name: "Laurenson",
+    email: "blaurenson0@cmu.edu",
+    gender: "Male",
+    ip_address: "202.133.80.199"
+}, {
+    id: 2,
+    first_name: "Ollie",
+    last_name: "Bone",
+    email: "obone1@multiply.com",
+    gender: "Female",
+    ip_address: "49.96.4.87"
+}, {
+    id: 3,
+    first_name: "Matilda",
+    last_name: "Seamer",
+    email: "mseamer2@sohu.com",
+    gender: "Female",
+    ip_address: "34.111.98.62"
+}, {
+    id: 4,
+    first_name: "Wren",
+    last_name: "Waskett",
+    email: "wwaskett3@wired.com",
+    gender: "Female",
+    ip_address: "114.252.115.108"
+}, {
+    id: 5,
+    first_name: "Darcie",
+    last_name: "O'Sheeryne",
+    email: "dosheeryne4@technorati.com",
+    gender: "Female",
+    ip_address: "218.180.183.82"
+}, {
+    id: 6,
+    first_name: "Pablo",
+    last_name: "Presman",
+    email: "ppresman5@buzzfeed.com",
+    gender: "Male",
+    ip_address: "182.103.38.77"
+}, {
+    id: 7,
+    first_name: "Zelda",
+    last_name: "Swafford",
+    email: "zswafford6@mac.com",
+    gender: "Female",
+    ip_address: "108.46.239.72"
+}, {
+    id: 8,
+    first_name: "Marisa",
+    last_name: "Sayton",
+    email: "msayton7@google.com.au",
+    gender: "Female",
+    ip_address: "239.55.44.191"
+}, {
+    id: 9,
+    first_name: "Lane",
+    last_name: "Laval",
+    email: "llaval8@uiuc.edu",
+    gender: "Female",
+    ip_address: "194.221.125.105"
+}, {
+    id: 10,
+    first_name: "Yorgo",
+    last_name: "Humm",
+    email: "yhumm9@ustream.tv",
+    gender: "Male",
+    ip_address: "169.111.144.42"
+}, {
+    id: 11,
+    first_name: "Davey",
+    last_name: "Govan",
+    email: "dgovana@archive.org",
+    gender: "Male",
+    ip_address: "48.236.83.225"
+}, {
+    id: 12,
+    first_name: "Ravi",
+    last_name: "Lavallie",
+    email: "rlavallieb@blog.com",
+    gender: "Male",
+    ip_address: "144.20.236.202"
+}, {
+    id: 13,
+    first_name: "Lulu",
+    last_name: "Yter",
+    email: "lyterc@photobucket.com",
+    gender: "Female",
+    ip_address: "59.42.221.55"
+}, {
+    id: 14,
+    first_name: "Fredericka",
+    last_name: "Aizikov",
+    email: "faizikovd@go.com",
+    gender: "Female",
+    ip_address: "97.151.72.232"
+}, {
+    id: 15,
+    first_name: "Dorry",
+    last_name: "Creaser",
+    email: "dcreasere@odnoklassniki.ru",
+    gender: "Female",
+    ip_address: "165.192.73.205"
+}, {
+    id: 16,
+    first_name: "Abbie",
+    last_name: "Chastey",
+    email: "achasteyf@github.io",
+    gender: "Female",
+    ip_address: "244.59.238.243"
+}, {
+    id: 17,
+    first_name: "Gallard",
+    last_name: "Apted",
+    email: "gaptedg@digg.com",
+    gender: "Male",
+    ip_address: "3.126.232.100"
+}, {
+    id: 18,
+    first_name: "Albert",
+    last_name: "Methven",
+    email: "amethvenh@geocities.com",
+    gender: "Male",
+    ip_address: "208.227.208.189"
+}, {
+    id: 19,
+    first_name: "Durant",
+    last_name: "Burridge",
+    email: "dburridgei@un.org",
+    gender: "Male",
+    ip_address: "134.149.47.142"
+}, {
+    id: 20,
+    first_name: "Michale",
+    last_name: "Spain",
+    email: "mspainj@freewebs.com",
+    gender: "Male",
+    ip_address: "231.192.191.107"
+}]
+
+// export your model
+
+module.exports = data
